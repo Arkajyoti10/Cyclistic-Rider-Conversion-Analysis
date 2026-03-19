@@ -7,5 +7,6 @@ Analyze 12 months of historical trip data from Cyclistic, a bike-share company i
 2. Power BI: Interactive dashboarding, DAX measures for KPI tracking and trend analysis
 3. Python (Pandas/Matplotlib/Seaborn): Exploratory Data Analysis (EDA) and complex statistical Vizualization
 ## Data Source
-The data consists of 12 CSV files containing 12 months of historical trip data FY 25-26. The data has been made available by Motivate International INC. under this license. 
+The data consists of 12 CSV files containing 12 months of historical trip data FY 25-26. The data has been made available by Motivate International INC. under the license https://divvybikes.com/data-license-agreement. The data sources incur no bias and the data is credible, passing the ROCCC test.
+
 

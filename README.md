@@ -8,5 +8,4 @@ Analyze 12 months of historical trip data from Cyclistic, a bike-share company i
 3. Python (Pandas/Matplotlib/Seaborn): Exploratory Data Analysis (EDA) and complex statistical Vizualization
 ## Data Source
 The data consists of 12 CSV files containing 12 months of historical trip data FY 25-26. The data has been made available by Motivate International INC. under this license. 
-<img width="1806" height="105" alt="image" src="https://github.com/user-attachments/assets/44aac154-d0fa-4fd6-8fac-af4d1c20eb6f" />
 

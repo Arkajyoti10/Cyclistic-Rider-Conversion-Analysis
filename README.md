@@ -31,9 +31,12 @@ The data consists of 12 CSV files containing 12 months of historical trip data F
    2.5 Top 10 Casual riding Stations: Created a Column chart to analyse digital advertisement prospects.
   
 ## Key Insights
-1. ### Weekend Dominance: Casual riders peak on weekends with significantly higher trip durations, suggesting recreational use case.
-2. ### Summer Surge: casual ridership increases by over 25% during the summer months(May-august) compared to the rest of the year
-3. ### Commuter realiability: Members peak duiring Weekday "Rush Hours" (8 AM and 5 PM) with shorter, consistent durations.
+1. ### Weekend Dominance:
+   Casual riders peak on weekends with significantly higher trip durations, suggesting recreational use case.
+2. ### Summer Surge:
+   Casual ridership increases by over 25% during the summer months(May-august) compared to the rest of the year
+3. ### Commuter realiability:
+   Members peak duiring Weekday "Rush Hours" (8 AM and 5 PM) with shorter, consistent durations.
 
 ## Recommendations
 1. ### Targeted "Leisure" Passes: Introduce a "Weekend-Only" membership tier to convert frequent weekend casual riders.

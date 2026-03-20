@@ -20,15 +20,15 @@ The data consists of 12 CSV files containing 12 months of historical trip data F
    1.4 Feature Engineering: Created new columns for ride length, days of week, hour and month.
 2. ### Exploratory Data analysis (EDA)
 
-2.1 Monthly Trends: Created a line chart to visualize seasonal spikes.
+   2.1 Monthly Trends: Created a line chart to visualize seasonal spikes.
   
-2.2 Weekly Patterns: Analyzed usage by day type (Weekday vs Weekend) using Small Multiples.
+   2.2 Weekly Patterns: Analyzed usage by day type (Weekday vs Weekend) using Small Multiples.
   
-2.3 Duration Metrics: Calculated average ride lengths to compare user engagement levels.
+   2.3 Duration Metrics: Calculated average ride lengths to compare user engagement levels.
   
-2.4 Rider mix: Measured the percentage difference in riders between weekdays and weekends
+   2.4 Rider mix: Measured the percentage difference in riders between weekdays and weekends
   
-2.5 Top 10 Casual riding Stations: Created a Column chart to analyse digital advertisement prospects.
+   2.5 Top 10 Casual riding Stations: Created a Column chart to analyse digital advertisement prospects.
   
 ## Key Insights
 1. Weekend Dominance: Casual riders peak on weekends with significantly higher trip durations, suggesting recreational use case.

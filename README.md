@@ -39,6 +39,10 @@ The data consists of 12 CSV files containing 12 months of historical trip data F
    Members peak duiring Weekday "Rush Hours" (8 AM and 5 PM) with shorter, consistent durations.
 
 ## Recommendations
-1. ### Targeted "Leisure" Passes: Introduce a "Weekend-Only" membership tier to convert frequent weekend casual riders.
-2. ### Seasonal Campaigns: Award 
+1. ### Targeted "Leisure" Passes:
+   Introduce a "Weekend-Only" membership tier to convert frequent weekend casual riders.
+2. ### Seasonal Campaigns:
+   Announce first-trial memberships to target Seasonal Casual riders during the Summer seasons.
+3. ### Target top 10 Stations:
+   Launch high-impact Digital advertisements in the Top 10 casual riding stations to demonstrate the benefits of annual pass over casual riding.
 

@@ -9,7 +9,7 @@ Analyze 12 months of historical trip data from Cyclistic, a bike-share company i
 ## Data Source
 The data consists of 12 CSV files containing 12 months of historical trip data FY 25-26. The data has been made available by Motivate International INC. under the license https://divvybikes.com/data-license-agreement. The data sources incur no bias and the data is credible, passing the ROCCC test.
 ## Process
-1. Data Cleaning
+1. ### Data Cleaning
    
    1.1 Removing nulls: Deleted trips with missing start and end station names
    
@@ -18,7 +18,6 @@ The data consists of 12 CSV files containing 12 months of historical trip data F
    1.3 Date/Time Formatting: Formatted data to follow a single format for start time and end time
    
    1.4 Feature Engineering: Created new columns for ride length, days of week, hour and month.
-
 2. Exploratory Data analysis (EDA)
    
   2.1 Monthly Trends: Created a line chart to visualize seasonal spikes.

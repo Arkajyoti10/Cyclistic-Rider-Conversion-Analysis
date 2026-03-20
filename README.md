@@ -12,18 +12,30 @@ The data consists of 12 CSV files containing 12 months of historical trip data F
 1. Data Cleaning
    
    1.1 Removing nulls: Deleted trips with missing start and end station names
+   
    1.2 Duplicates: Checked for duplicates in Ride IDs
+   
    1.3 Date/Time Formatting: Formatted data to follow a single format for start time and end time
+   
    1.4 Feature Engineering: Created new columns for ride length, days of week, hour and month.
 
 2. Exploratory Data analysis (EDA)
    
   2.1 Monthly Trends: Created a line chart to visualize seasonal spikes.
+  
   2.2 Weekly Patterns: Analyzed usage by day type (Weekday vs Weekend) using Small Multiples.
+  
   2.3 Duration Metrics: Calculated average ride lengths to compare user engagement levels.
+  
   2.4 Rider mix: Measured the percentage difference in riders between weekdays and weekends
+  
   2.5 Top 10 Casual riding Stations: Created a Column chart to analyse digital advertisement prospects.
   
 ## Key Insights
-1. 
+1. Weekend Dominance: Casual riders peak on weekends with significantly higher trip durations, suggesting recreational use case.
+2. Summer Surge: casual ridership increases by over 25% during the summer months(May-august) compared to the rest of the year
+3. Commuter realiability: Members peak duiring Weekday "Rush Hours" (8 AM and 5 PM) with shorter, consistent durations.
+
+## Recommendations
+
 

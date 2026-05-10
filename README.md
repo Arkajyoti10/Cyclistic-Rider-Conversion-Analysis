@@ -46,6 +46,7 @@ The data consists of 12 CSV files containing 12 months of historical trip data F
 3. ### Target top 10 Stations:
    Launch high-impact Digital advertisements in the Top 10 casual riding stations to demonstrate the benefits of annual pass over casual riding.
 
+## Interactive Dashboard
 <img width="1080" height="597" alt="c7d29bb4-a1d8-4bd9-9653-3f178e5818c6" src="https://github.com/user-attachments/assets/49fa03c6-71f0-4490-ae7c-9cd9d648e418" />
 
 

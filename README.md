@@ -34,7 +34,7 @@ The data consists of 12 CSV files containing 12 months of historical trip data F
 1. ### Weekend Dominance:
    Casual riders peak on weekends with significantly higher trip durations, suggesting recreational use case.
 2. ### Summer Surge:
-   Casual ridership increases by over 25% during the summer months(May-august) compared to the rest of the year
+   Casual ridership increases by over 13% during the summer months(May-august) compared to the rest of the year
 3. ### Commuter realiability:
    Members peak duiring Weekday "Rush Hours" (8 AM and 5 PM) with shorter, consistent durations.
 
